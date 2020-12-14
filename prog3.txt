@@ -1,0 +1,8 @@
+S0 # S1 # R
+S1 a S1 1 R
+S1 b S1 2 R
+S1 c S1 3 R
+S1 1 S1 1 R
+S1 2 S1 2 R
+S1 3 S1 3 R
+S1 # S1 # Q
